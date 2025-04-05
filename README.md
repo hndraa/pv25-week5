@@ -21,16 +21,17 @@
 ## menekan save saat hanya mengisi nama,email, umur, dan alamat
 ![image](https://github.com/user-attachments/assets/a798ac1a-9aaa-452a-b2ad-e267d7be6bef)
 
-## menekan save saat hanya mengisi nama,email, umur, nomor Hp, dan alamat
-![image](https://github.com/user-attachments/assets/70fae61d-3da3-4c08-938c-f2ac51eb9f91)
-
 ## menekan save saat format nomor kurang dari 13 digit termasuk placeholder +62
 ![image](https://github.com/user-attachments/assets/47a82450-66d7-46d3-9127-328a6aafb7f6)
 
 ## menekan save saat format nomor tidak diikuti angka 8 setelah placeholder +62
 ![image](https://github.com/user-attachments/assets/e0c2820e-81d0-481d-9471-ead799f23fc0)
 
+## menekan save saat hanya mengisi nama,email, umur, nomor Hp, dan alamat
+![image](https://github.com/user-attachments/assets/70fae61d-3da3-4c08-938c-f2ac51eb9f91)
+
 ## menekan save saat format jenis kelamin "tidak ingin di beritahu"
 ![image](https://github.com/user-attachments/assets/2f559d4a-7021-4fe2-8b72-8d9b8184b476)
 
-## 
+## menekan save saat data semua benar
+![image](https://github.com/user-attachments/assets/c3bb31e1-af43-49ef-9e34-9dc8e8be7ae8)
